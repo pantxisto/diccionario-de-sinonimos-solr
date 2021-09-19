@@ -1,2 +1,9 @@
 https://www.wordreference.com/
 https://www.lenguaje.com/cgi-bin/V2/sinonimos.php
+
+1º Crear una lista de las palabras de las que queremos conseguir los sinónimos.
+2º Llamar a cualquiera de los dos endpoints de las webs mencionadas para conseguir los sinónimos.
+  2.1º Extraer los sinónimos del html recibido.
+3º Generar una lista que contenga las palabras iniciales y sus sinónimos.
+4º Repasar la lista buscando repeticiones de palabras y agrupando sus sinónimos. ¿Posibles errores por diferentes sentidos?
+5º Generar un archivo con el formato que queramos con la lista que hemos obtenido.
